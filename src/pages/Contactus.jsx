@@ -6,7 +6,7 @@ const Contactus = () => {
         <div className='bg-black text-white text-center flex flex-row xs:max-md:flex-col p-8'>
             <div className='text-left'>
 <h1 className='pb-8 font-bold '>CONTACT DETAILS</h1>
-<div className='text-xs'>
+<div className='text-sm'>
 <p>Name- V.K. SALES</p>
 <br/>
 <p>Mobile - 8879401485</p>
